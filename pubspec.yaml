@@ -1,7 +1,7 @@
 name: flutter_weixin_plugin
 description: A lightweight flutter plugin for WeChat SDK.
 version: 0.0.1
-author: linjiang
+author: linjiang <linjiang.me@gmail.com>
 homepage: https://github.com/whataa/fluuter_weixin_plugin
 
 environment:
