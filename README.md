@@ -64,6 +64,10 @@ WxPlugin().pay(...)
 
 Pay returns `WxPay` object.
 
+## TODO
+
+- [ ] plugin for iOS
+
 ## LICENSE
 
 Apache
